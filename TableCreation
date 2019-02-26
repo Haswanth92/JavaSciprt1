@@ -1,10 +1,10 @@
 # Table creation using JavaScript
 <html>
 <head>
-  <title>Multiplication Table</title>
+  <title>Table Creation</title>
   <script type="text/javascript">
-    var rows = prompt("How many rows for your multiplication table?");
-    var cols = prompt("How many columns for your multiplication table?");
+    var rows = prompt("How many rows needed for your table?");
+    var cols = prompt("How many columns needed for your  table?");
     if(rows == "" || rows == null)
    		 rows = 10;
     if(cols== "" || cols== null)
