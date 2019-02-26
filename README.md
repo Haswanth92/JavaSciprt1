@@ -1,1 +1,1 @@
-# JavaSciprt1
+# Table creation using JavaScript
